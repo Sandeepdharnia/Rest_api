@@ -6,7 +6,7 @@ including their architecture, functionality, and implementation.
 This involves learning how to design, develop, and consume APIs that facilitate communication 
 between different software systems. 
 The project focuses on key concepts such as HTTP methods (GET, POST, PUT, DELETE), endpoints, 
-request and response handling, status codes, and data formats like JSON or XML. Additionally, 
+request and response handling, status codes, and data formats like JSON. Additionally, 
 it explores how REST APIs enable seamless integration and interoperability in modern applications.
 
 ## Prepration
